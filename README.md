@@ -1,3 +1,2 @@
 # hexlet-my-first-workflow
-
-https://ru.hexlet.io/courses/github-actions
+https://github.com/miley777/hexlet-my-first-workflow/actions
