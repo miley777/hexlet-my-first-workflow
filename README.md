@@ -1,3 +1,3 @@
 # hexlet-my-first-workflow
 
-.github/workflows/say-hello.yml
+https://ru.hexlet.io/courses/github-actions/
