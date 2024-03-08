@@ -1,4 +1,4 @@
-name: say-hallo 
+name: say-hello 
 on: push
 jobs:
   build: 
